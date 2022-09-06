@@ -1,0 +1,629 @@
+Metadata:
+  Identification_Information:
+    Citation:
+      Citation_Information:
+        Originator: Mark E. Stelten
+        Originator: Drew T. Downs
+        Publication_Date: 2022
+        Title: Electron microprobe data for plagioclase, olivine, pyroxene, and spinel in volcanic rocks from the Matan volcanic center located within the Harrat Rahat volcanic field, Kingdom of Saudi Arabia
+        Geospatial_Data_Presentation_Form: Electron microprobe data provided as .csv files
+        Publication_Information:
+          Publication_Place: Reston, VA
+          Publisher: U.S. Geological Survey
+        Online_Linkage: https://doi.org/10.5066/P9ENRS8U
+    Description:
+      Abstract: Mineral compositions are reported for Quaternary volcanic rocks of the Matan volcanic center, northern Harrat Rahat, Saudi Arabia.  Compositions were measured by wavelength-dispersive methods with the 5-spectrometer JEOL-8900 electron microprobe at the USGS facility in Menlo Park, California; background-corrected X-ray intensities were reduced to oxide weight concentrations with the JEOL proprietary version of the CITZAF reduction schema.  These results are part of a collaborative study by the U.S. Geological Survey and Saudi Geological survey to assess the volcanic and seismic hazards associated with the northern Harrat Rahat volcanic field.
+      Purpose: The data were collected to determine composition of mineral phases of Quaternary volcanic rocks of northern Harrat Rahat, Kingdom of Saudi Arabia. These compositions help to understand the origin and compositional evolution of volcanic rocks within northern Harrat Rahat.
+    Time_Period_of_Content:
+      Time_Period_Information:
+        Range_of_Dates/Times:
+          Beginning_Date: 20150107
+          Ending_Date: 20191202
+      Currentness_Reference: ground condition
+    Status:
+      Progress: Complete
+      Maintenance_and_Update_Frequency: None planned
+    Spatial_Domain:
+      Bounding_Coordinates:
+        West_Bounding_Coordinate: 39.4641317756
+        East_Bounding_Coordinate: 40.219618406655
+        North_Bounding_Coordinate: 24.574404075165
+        South_Bounding_Coordinate: 23.928993458416
+    Keywords:
+      Theme:
+        Theme_Keyword_Thesaurus: USGS Thesaurus
+        Theme_Keyword: Geochemistry
+      Place:
+        Place_Keyword_Thesaurus: NGA GEOnet Names Server (GNS)
+        Place_Keyword: Al Madinah Al Munawwarah, Kingdom of Saudi Arabia
+        Place_Keyword: Harrat Rahat volcanic field
+      Temporal:
+        Temporal_Keyword_Thesaurus: USGS Thesaurus
+        Temporal_Keyword: Quaternary
+    Access_Constraints: none
+    Use_Constraints: none
+    Point_of_Contact:
+      Contact_Information:
+        Contact_Person_Primary:
+          Contact_Person: Mark E Stelten
+          Contact_Organization: ALASKA REGION: VOLCANO SCIENCE CENTER
+        Contact_Position: Research Geologist
+        Contact_Address:
+          Address_Type: mailing and physical
+          Address: Mail Stop 910, 345 Middlefield Road
+          City: Menlo Park
+          State_or_Province: CA
+          Postal_Code: 94025
+          Country: US
+        Contact_Voice_Telephone: 650-329-5213
+        Contact_Electronic_Mail_Address: mstelten@usgs.gov
+    Data_Set_Credit: Funding provided by the Saudi Geological Survey
+  Data_Quality_Information:
+    Attribute_Accuracy:
+      Attribute_Accuracy_Report: No formal attribute accuracy tests were conducted
+    Logical_Consistency_Report: Duplication and omission were tested for. No errors were found. All values fall within the expected range and typical run conditions for the instruments used. These were verified by two USGS reviewers.
+    Completeness_Report: Data set is considered complete for the information presented, as described in the abstract. Users are advised to read the rest of the metadata record carefully for additional details.
+    Positional_Accuracy:
+      Horizontal_Positional_Accuracy:
+        Horizontal_Positional_Accuracy_Report: No formal positional accuracy tests were conducted
+      Vertical_Positional_Accuracy:
+        Vertical_Positional_Accuracy_Report: No formal positional accuracy tests were conducted
+    Lineage:
+      Process_Step:
+        Process_Description: Thin sections (30 micrometers thick) were prepared commercially and loaded into the 5-spectrometer JEOL-8900 electron-microprobe at the USGS facility in Menlo Park, California. All analyses were made with a 15 kilovolt accelerating voltage and the specific conditions: for plagioclase, 10 nanoamperes Faraday current, 10 micrometer diameter beam; for spinels, 20 nanoamperes Faraday current, focused beam; for pyroxene and olivine, 15 nanoamperes Faraday current, focused beam. Count times were 30 seconds on peak and 10 seconds on + and - backgrounds for all elements except sodium, for which count times were 10 seconds on peak and 5 seconds on backgrounds. Sodium and potassium were measured first to minimize diffusive loss under the beam.  Background-corrected X-ray intensities were converted to concentrations with the JEOL proprietary version of the CITZAF reduction schema referenced to a selection of natural and synthetic mineral standards.  Interference of titanium K-beta on vanadium K-alpha X-rays was corrected by analysis of vanadium-free titanium dioxide to determine the apparent vanadium X-ray count rates proportional to titanium count rates and application of this correction to unknowns.
+        Process_Date: 20191202
+  Spatial_Data_Organization_Information:
+    Indirect_Spatial_Reference: Location information for these samples can be found in Downs, D.T., 2019, Major- and trace-element chemical analyses of rocks from the northern Harrat Rahat volcanic field and surrounding area, Kingdom of Saudi Arabia: U.S. Geological Survey data release, https://doi.org/10.5066/P91HL91C
+  Entity_and_Attribute_Information:
+    Detailed_Description:
+      Entity_Type:
+        Entity_Type_Label: MVC_EMPAdata
+        Entity_Type_Definition: MVC_EMPAdata .csv contains mineral compositions for Quaternary volcanic rocks of the Matan volcanic center, northern Harrat Rahat, Saudi Arabia.  Compositions were measured by wavelength-dispersive methods with the 5-spectrometer JEOL-8900 electron microprobe at the USGS facility in Menlo Park, California. These results are part of a collaborative study by the U.S. Geological Survey and Saudi Geological survey to assess the volcanic and seismic hazards associated with the northern Harrat Rahat volcanic field.
+        Entity_Type_Definition_Source: Mark Stelten
+      Attribute:
+        Attribute_Label: Sample Name
+        Attribute_Definition: Sample collection number as collected in field or provided by collaborator
+        Attribute_Definition_Source: Producer defined
+        Attribute_Domain_Values:
+          Unrepresentable_Domain: Sample collection number as collected in field or provided by collaborator
+      Attribute:
+        Attribute_Label: Analysis Name
+        Attribute_Definition: Unique identifier for electron microprobe analysis
+        Attribute_Definition_Source: Producer defined
+        Attribute_Domain_Values:
+          Unrepresentable_Domain: Unique identifier for electron microprobe analysis
+      Attribute:
+        Attribute_Label: Mineral phase
+        Attribute_Definition: Type of mineral analyzed by electron microprobe
+        Attribute_Definition_Source: Producer defined
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: Plagioclase
+            Enumerated_Domain_Value_Definition: Plagioclase crystal
+            Enumerated_Domain_Value_Definition_Source: Producer defined
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: Olivine
+            Enumerated_Domain_Value_Definition: Olivine crystal
+            Enumerated_Domain_Value_Definition_Source: Producer defined
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: Pyroxene
+            Enumerated_Domain_Value_Definition: Pyroxene crystal
+            Enumerated_Domain_Value_Definition_Source: Producer defined
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: Spinel
+            Enumerated_Domain_Value_Definition: Spinel crystal
+            Enumerated_Domain_Value_Definition_Source: Producer defined
+      Attribute:
+        Attribute_Label: Context
+        Attribute_Definition: Petrographic context of phase analyzed by electron microprobe.
+        Attribute_Definition_Source: Producer defined
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: Groundmass
+            Enumerated_Domain_Value_Definition: Groundmass grains are small crystals (typically less than 250 micrometers in their largest dimension) interpreted to have grown from melt during and following eruption; these may include some microphenocrysts.
+            Enumerated_Domain_Value_Definition_Source: Producer defined
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: Phenocryst
+            Enumerated_Domain_Value_Definition: Phenocrysts are larger crystals (typically >250 micrometers in their largest dimension).
+            Enumerated_Domain_Value_Definition_Source: Producer defined
+      Attribute:
+        Attribute_Label: Unit Abbreviation
+        Attribute_Definition: Unit abbreviation based on the geologic map of Harrat Rahat presented in Downs, D.T., Robinson, J.E., Stelten, M.E., Champion, D.E., Dietterich, H.R., Sisson, T.W., Zahran, H., Hassan, K., and Shawali, J., 2019, Geologic map of the northern Harrat Rahat volcanic field, Kingdom of Saudi Arabia: U.S. Geological Survey Scientific Investigations Map 3428 [also released as Saudi Geological Survey Special Report SGS-SP-2019-2], scales 1:75,000, 1:25,000, 4 sheets, https://doi.org/10.3133/sim3428
+        Attribute_Definition_Source: Producer defined
+        Attribute_Domain_Values:
+          Unrepresentable_Domain: Unit abbreviation based on the geologic map of Harrat Rahat presented in Downs, D.T., Robinson, J.E., Stelten, M.E., Champion, D.E., Dietterich, H.R., Sisson, T.W., Zahran, H., Hassan, K., and Shawali, J., 2019, Geologic map of the northern Harrat Rahat volcanic field, Kingdom of Saudi Arabia: U.S. Geological Survey Scientific Investigations Map 3428 [also released as Saudi Geological Survey Special Report SGS-SP-2019-2], scales 1:75,000, 1:25,000, 4 sheets, https://doi.org/10.3133/sim3428
+      Attribute:
+        Attribute_Label: SiO2
+        Attribute_Definition: Weight percent concentration of silicon measured by electron microprobe reported as silicon oxide
+        Attribute_Definition_Source: Producer defined
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0.1
+            Range_Domain_Maximum: 68.7
+            Attribute_Units_of_Measure: weight percent
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: BDL
+            Enumerated_Domain_Value_Definition: Below detection limit. Concentrations less than 0.1 weight percent were not considered reliable and labeled BDL.
+            Enumerated_Domain_Value_Definition_Source: Producer defined
+      Attribute:
+        Attribute_Label: TiO2
+        Attribute_Definition: Weight percent concentration of titanium measured by electron microprobe reported as titanium oxide
+        Attribute_Definition_Source: Producer defined
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0.1
+            Range_Domain_Maximum: 31.0
+            Attribute_Units_of_Measure: weight percent
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: n/a
+            Enumerated_Domain_Value_Definition: Not applicable. This indicates that the element was not monitored during analysis or that the value applies to a different mineral phase.
+            Enumerated_Domain_Value_Definition_Source: Producer defined
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: BDL
+            Enumerated_Domain_Value_Definition: Below detection limit. Concentrations less than 0.1 weight percent were not considered reliable and labeled BDL.
+            Enumerated_Domain_Value_Definition_Source: Producer defined
+      Attribute:
+        Attribute_Label: Al2O3
+        Attribute_Definition: Weight percent concentration of aluminum by electron microprobe reported as aluminum oxide
+        Attribute_Definition_Source: Producer defined
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0.1
+            Range_Domain_Maximum: 35.7
+            Attribute_Units_of_Measure: weight percent
+      Attribute:
+        Attribute_Label: n/a
+        Attribute_Definition: Not applicable. This indicates that the element was not monitored during analysis or that the value applies to a different mineral phase.
+        Attribute_Definition_Source: Producer defined
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: BDL
+            Enumerated_Domain_Value_Definition: Below detection limit. Concentrations less than 0.1 weight percent were not considered reliable and labeled BDL.
+            Enumerated_Domain_Value_Definition_Source: Producer defined
+      Attribute:
+        Attribute_Label: FeO*
+        Attribute_Definition: Weight percent concentration of iron measured by electron microprobe reported as ferrous iron oxide. The asterisk indicates that in this measurement all the iron is calculated as ferrous iron.
+        Attribute_Definition_Source: Producer defined
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0.12
+            Range_Domain_Maximum: 63.2
+            Attribute_Units_of_Measure: weight percent
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: n/a
+            Enumerated_Domain_Value_Definition: Not applicable. This indicates that the element was not monitored during analysis or that the value applies to a different mineral phase.
+            Enumerated_Domain_Value_Definition_Source: Producer defined
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: BDL
+            Enumerated_Domain_Value_Definition: Below detection limit. Concentrations less than 0.1 weight percent were not considered reliable and labeled BDL.
+            Enumerated_Domain_Value_Definition_Source: Producer defined
+      Attribute:
+        Attribute_Label: FeO
+        Attribute_Definition: Weight percent concentration of ferrous iron oxide recalculated from total iron measured by electron microprobe (FeO*) to maintain charge balance in spinel series minerals on a three cation - four oxygen basis, or in pyroxenes on a two cation - three oxygen basis.
+        Attribute_Definition_Source: Producer defined
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0.3
+            Range_Domain_Maximum: 55.2
+            Attribute_Units_of_Measure: weight percent
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: n/a
+            Enumerated_Domain_Value_Definition: Not applicable. This indicates that the element was not monitored during analysis or that the value applies to a different mineral phase.
+            Enumerated_Domain_Value_Definition_Source: Producer defined
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: BDL
+            Enumerated_Domain_Value_Definition: Below detection limit. Concentrations less than 0.1 weight percent were not considered reliable and labeled BDL.
+            Enumerated_Domain_Value_Definition_Source: Producer defined
+      Attribute:
+        Attribute_Label: Fe2O3
+        Attribute_Definition: Weight percent concentration of ferric iron oxide recalculated from total iron measured by electron microprobe (FeO*) to maintain charge balance in spinel series minerals on a three cation - four oxygen basis, or in pyroxenes on a two cation - three oxygen basis.
+        Attribute_Definition_Source: Producer defined
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0.4
+            Range_Domain_Maximum: 65.1
+            Attribute_Units_of_Measure: weight percent
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: n/a
+            Enumerated_Domain_Value_Definition: Not applicable. This indicates that the element was not monitored during analysis or that the value applies to a different mineral phase.
+            Enumerated_Domain_Value_Definition_Source: Producer defined
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: BDL
+            Enumerated_Domain_Value_Definition: Below detection limit. Concentrations less than 0.1 weight percent were not considered reliable and labeled BDL.
+            Enumerated_Domain_Value_Definition_Source: Producer defined
+      Attribute:
+        Attribute_Label: CaO
+        Attribute_Definition: Weight percent concentration of calcium measured by electron microprobe reported as calcium oxide
+        Attribute_Definition_Source: Producer defined
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0.1
+            Range_Domain_Maximum: 22.1
+            Attribute_Units_of_Measure: weight percent
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: n/a
+            Enumerated_Domain_Value_Definition: Not applicable. This indicates that the element was not monitored during analysis or that the value applies to a different mineral phase.
+            Enumerated_Domain_Value_Definition_Source: Producer defined
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: BDL
+            Enumerated_Domain_Value_Definition: Below detection limit. Concentrations less than 0.1 weight percent were not considered reliable and labeled BDL.
+            Enumerated_Domain_Value_Definition_Source: Producer defined
+      Attribute:
+        Attribute_Label: Na2O
+        Attribute_Definition: Weight percent concentration of sodium measured by electron microprobe reported as sodium oxide
+        Attribute_Definition_Source: Producer defined
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0.4
+            Range_Domain_Maximum: 13.8
+            Attribute_Units_of_Measure: weight percent
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: n/a
+            Enumerated_Domain_Value_Definition: Not applicable. This indicates that the element was not monitored during analysis or that the value applies to a different mineral phase.
+            Enumerated_Domain_Value_Definition_Source: Producer defined
+      Attribute:
+        Attribute_Label: K2O
+        Attribute_Definition: Weight percent concentration of potassium measured by electron microprobe reported as potassium oxide
+        Attribute_Definition_Source: Producer defined
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0.1
+            Range_Domain_Maximum: 10.0
+            Attribute_Units_of_Measure: weight percent
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: n/a
+            Enumerated_Domain_Value_Definition: Not applicable. This indicates that the element was not monitored during analysis or that the value applies to a different mineral phase.
+            Enumerated_Domain_Value_Definition_Source: Producer defined
+      Attribute:
+        Attribute_Label: MnO
+        Attribute_Definition: Weight percent concentration of manganese measured by electron microprobe reported as manganese oxide
+        Attribute_Definition_Source: Producer defined
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0.1
+            Range_Domain_Maximum: 4.4
+            Attribute_Units_of_Measure: weight percent
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: n/a
+            Enumerated_Domain_Value_Definition: Not applicable. This indicates that the element was not monitored during analysis or that the value applies to a different mineral phase.
+            Enumerated_Domain_Value_Definition_Source: Producer defined
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: BDL
+            Enumerated_Domain_Value_Definition: Below detection limit. Concentrations less than 0.1 weight percent were not considered reliable and labeled BDL.
+            Enumerated_Domain_Value_Definition_Source: Producer defined
+      Attribute:
+        Attribute_Label: MgO
+        Attribute_Definition: Weight percent concentration of magnesium measured by electron microprobe reported as magnesium oxide
+        Attribute_Definition_Source: Producer defined
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0.1
+            Range_Domain_Maximum: 47.3
+            Attribute_Units_of_Measure: weight percent
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: n/a
+            Enumerated_Domain_Value_Definition: Not applicable. This indicates that the element was not monitored during analysis or that the value applies to a different mineral phase.
+            Enumerated_Domain_Value_Definition_Source: Producer defined
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: BDL
+            Enumerated_Domain_Value_Definition: Below detection limit. Concentrations less than 0.1 weight percent were not considered reliable and labeled BDL.
+            Enumerated_Domain_Value_Definition_Source: Producer defined
+      Attribute:
+        Attribute_Label: NiO
+        Attribute_Definition: Weight percent concentration of nickel measured by electron microprobe reported as nickel oxide
+        Attribute_Definition_Source: Producer defined
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0.1
+            Range_Domain_Maximum: 0.4
+            Attribute_Units_of_Measure: weight percent
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: n/a
+            Enumerated_Domain_Value_Definition: Not applicable. This indicates that the element was not monitored during analysis or that the value applies to a different mineral phase.
+            Enumerated_Domain_Value_Definition_Source: Producer defined
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: BDL
+            Enumerated_Domain_Value_Definition: Below detection limit. Concentrations less than 0.1 weight percent were not considered reliable and labeled BDL.
+            Enumerated_Domain_Value_Definition_Source: Producer defined
+      Attribute:
+        Attribute_Label: Cr2O3
+        Attribute_Definition: Weight percent concentration of chromium measured by electron microprobe reported as chromium oxide
+        Attribute_Definition_Source: Producer defined
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0.1
+            Range_Domain_Maximum: 24.9
+            Attribute_Units_of_Measure: weight percent
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: n/a
+            Enumerated_Domain_Value_Definition: Not applicable. This indicates that the element was not monitored during analysis or that the value applies to a different mineral phase.
+            Enumerated_Domain_Value_Definition_Source: Producer defined
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: BDL
+            Enumerated_Domain_Value_Definition: Below detection limit. Concentrations less than 0.1 weight percent were not considered reliable and labeled BDL.
+            Enumerated_Domain_Value_Definition_Source: Producer defined
+      Attribute:
+        Attribute_Label: V2O3
+        Attribute_Definition: Weight percent concentration of vanadium measured by electron microprobe reported as vanadium oxide
+        Attribute_Definition_Source: Producer defined
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0.1
+            Range_Domain_Maximum: 1.2
+            Attribute_Units_of_Measure: weight percent
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: n/a
+            Enumerated_Domain_Value_Definition: Not applicable. This indicates that the element was not monitored during analysis or that the value applies to a different mineral phase.
+            Enumerated_Domain_Value_Definition_Source: Producer defined
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: BDL
+            Enumerated_Domain_Value_Definition: Below detection limit. Concentrations less than 0.1 weight percent were not considered reliable and labeled BDL.
+            Enumerated_Domain_Value_Definition_Source: Producer defined
+      Attribute:
+        Attribute_Label: Total
+        Attribute_Definition: Sum of oxide weight concentrations
+        Attribute_Definition_Source: Producer defined
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 94.1
+            Range_Domain_Maximum: 103.4
+            Attribute_Units_of_Measure: weight percent
+      Attribute:
+        Attribute_Label: XAb
+        Attribute_Definition: Mole percent albite calculated as [XAb = 100 * Na/(Na + K + Ca)], where Na, K, and Ca are the mole fraction of sodium, potassium, and calcium, respectively. This calculation only applies to the mineral phase plagioclase.
+        Attribute_Definition_Source: Producer defined
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 22
+            Range_Domain_Maximum: 86
+            Attribute_Units_of_Measure: Mole percent
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: n/a
+            Enumerated_Domain_Value_Definition: Not applicable. This indicates that the element was not monitored during analysis or that the value applies to a different mineral phase.
+            Enumerated_Domain_Value_Definition_Source: Producer defined
+      Attribute:
+        Attribute_Label: XAn
+        Attribute_Definition: Mole percent anorthite calculated as [XAn = 100 * Ca/(Na + K + Ca)], where Na, K, and Ca are the mole fraction of sodium, potassium, and calcium, respectively. This calculation only applies to the mineral phase plagioclase.
+        Attribute_Definition_Source: Producer defined
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0
+            Range_Domain_Maximum: 77
+            Attribute_Units_of_Measure: Mole percent
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: n/a
+            Enumerated_Domain_Value_Definition: Not applicable. This indicates that the element was not monitored during analysis or that the value applies to a different mineral phase.
+            Enumerated_Domain_Value_Definition_Source: Producer defined
+      Attribute:
+        Attribute_Label: XOr
+        Attribute_Definition: Mole percent orthoclase calculated as [XOr = 100 * K/(Na + K + Ca)], where Na, K, and Ca are the mole fraction of sodium, potassium, and calcium, respectively. This calculation only applies to the mineral phase plagioclase.
+        Attribute_Definition_Source: Producer defined
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0.3
+            Range_Domain_Maximum: 58
+            Attribute_Units_of_Measure: Mole percent
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: n/a
+            Enumerated_Domain_Value_Definition: Not applicable. This indicates that the element was not monitored during analysis or that the value applies to a different mineral phase.
+            Enumerated_Domain_Value_Definition_Source: Producer defined
+      Attribute:
+        Attribute_Label: XFa
+        Attribute_Definition: Mole percent fayalite calculated as [XFa = 100 * Fe^2+/(Fe^2+ + Mg + Mn)], where Fe^2+, Mg, and Mn are the mole fraction of ferrous iron, magnesium, and manganese, respectively. This calculation only applies to the mineral phase olivine.
+        Attribute_Definition_Source: Producer defined
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 12
+            Range_Domain_Maximum: 90
+            Attribute_Units_of_Measure: Mole percent
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: n/a
+            Enumerated_Domain_Value_Definition: Not applicable. This indicates that the element was not monitored during analysis or that the value applies to a different mineral phase.
+            Enumerated_Domain_Value_Definition_Source: Producer defined
+      Attribute:
+        Attribute_Label: XFo
+        Attribute_Definition: Mole percent forsterite calculated as [XFo = 100 * Mg/(Fe^2+ + Mg + Mn)], where Fe^2+, Mg, and Mn are the mole fraction of ferrous iron, magnesium, and manganese, respectively. This calculation only applies to the mineral phase olivine.
+        Attribute_Definition_Source: Producer defined
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 6
+            Range_Domain_Maximum: 88
+            Attribute_Units_of_Measure: Mole percent
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: n/a
+            Enumerated_Domain_Value_Definition: Not applicable. This indicates that the element was not monitored during analysis or that the value applies to a different mineral phase.
+            Enumerated_Domain_Value_Definition_Source: Producer defined
+      Attribute:
+        Attribute_Label: XTp
+        Attribute_Definition: Mole percent tephrolite calculated as [XTa = 100 * Mn/(Fe^2+ + Mg + Mn)], where Fe^2+, Mg, and Mn are the mole fraction of ferrous iron, magnesium, and manganese, respectively. This calculation only applies to the mineral phase olivine.
+        Attribute_Definition_Source: Producer defined
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0.1
+            Range_Domain_Maximum: 6.3
+            Attribute_Units_of_Measure: Mole percent
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: n/a
+            Enumerated_Domain_Value_Definition: Not applicable. This indicates that the element was not monitored during analysis or that the value applies to a different mineral phase.
+            Enumerated_Domain_Value_Definition_Source: Producer defined
+      Attribute:
+        Attribute_Label: XWo
+        Attribute_Definition: Mole percent wollastonite calculated as [XWo = 100 * Ca/(Fe^2+ + Mg + Ca + Mn + 2 * Na)], where Fe^2+, Mg, Ca, Mn, and Na are the mole fraction of ferrous iron, magnesium, calcium, manganese, and sodium respectively,  simplified following Morimoto, N., 1988, Nomenclature of Pyroxenes: Mineralogy and Petrology, v. 39, p. 55–76, https://doi.org/10.1007/BF01226262. This calculation only applies to the mineral phase pyroxene.
+        Attribute_Definition_Source: Producer defined
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 4
+            Range_Domain_Maximum: 49
+            Attribute_Units_of_Measure: Mole percent
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: n/a
+            Enumerated_Domain_Value_Definition: Not applicable. This indicates that the element was not monitored during analysis or that the value applies to a different mineral phase.
+            Enumerated_Domain_Value_Definition_Source: Producer defined
+      Attribute:
+        Attribute_Label: XEn
+        Attribute_Definition: Mole percent enstatite calculated as [XEn = 100 * Mg/(Fe^2+ + Mg + Ca + Mn + 2 * Na)], where Fe^2+, Mg, Ca, Mn, and Na are the mole fraction of ferrous iron, magnesium, calcium, manganese, and sodium respectively,  simplified following Morimoto, N., 1988, Nomenclature of Pyroxenes: Mineralogy and Petrology, v. 39, p. 55–76, https://doi.org/10.1007/BF01226262. This calculation only applies to the mineral phase pyroxene.
+        Attribute_Definition_Source: Producer defined
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0
+            Range_Domain_Maximum: 40
+            Attribute_Units_of_Measure: Mole percent
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: n/a
+            Enumerated_Domain_Value_Definition: Not applicable. This indicates that the element was not monitored during analysis or that the value applies to a different mineral phase.
+            Enumerated_Domain_Value_Definition_Source: Producer defined
+      Attribute:
+        Attribute_Label: XFs
+        Attribute_Definition: Mole percent ferrosilite calculated as [XFs = 100 * Fe^2+/(Fe^2+ + Mg + Ca + Mn + 2 * Na)], where Fe^2+, Mg, Ca, Mn, and Na are the mole fraction of ferrous iron, magnesium, calcium, manganese, and sodium respectively,  simplified following Morimoto, N., 1988, Nomenclature of Pyroxenes: Mineralogy and Petrology, v. 39, p. 55–76, https://doi.org/10.1007/BF01226262. This calculation only applies to the mineral phase pyroxene.
+        Attribute_Definition_Source: Producer defined
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 12
+            Range_Domain_Maximum: 96
+            Attribute_Units_of_Measure: Mole percent
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: n/a
+            Enumerated_Domain_Value_Definition: Not applicable. This indicates that the element was not monitored during analysis or that the value applies to a different mineral phase.
+            Enumerated_Domain_Value_Definition_Source: Producer defined
+      Attribute:
+        Attribute_Label: XJd
+        Attribute_Definition: Mole percent jadeite calculated following Morimoto, N., 1988, Nomenclature of Pyroxenes: Mineralogy and Petrology, v. 39, p. 55–76, https://doi.org/10.1007/BF01226262. This calculation only applies to the mineral phase pyroxene.
+        Attribute_Definition_Source: Producer defined
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 1
+            Range_Domain_Maximum: 20
+            Attribute_Units_of_Measure: Mole percent
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: n/a
+            Enumerated_Domain_Value_Definition: Not applicable. This indicates that the element was not monitored during analysis or that the value applies to a different mineral phase.
+            Enumerated_Domain_Value_Definition_Source: Producer defined
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: BDL
+            Enumerated_Domain_Value_Definition: Below detection limit. Concentrations less than 0.1 weight percent were not considered reliable and labeled BDL.
+            Enumerated_Domain_Value_Definition_Source: Producer defined
+      Attribute:
+        Attribute_Label: XAe
+        Attribute_Definition: Mole percent aegirine calculated following Morimoto, N., 1988, Nomenclature of Pyroxenes: Mineralogy and Petrology, v. 39, p. 55–76, https://doi.org/10.1007/BF01226262. This calculation only applies to the mineral phase pyroxene.
+        Attribute_Definition_Source: Producer defined
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0
+            Range_Domain_Maximum: 98
+            Attribute_Units_of_Measure: Mole percent
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: n/a
+            Enumerated_Domain_Value_Definition: Not applicable. This indicates that the element was not monitored during analysis or that the value applies to a different mineral phase.
+            Enumerated_Domain_Value_Definition_Source: Producer defined
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: BDL
+            Enumerated_Domain_Value_Definition: Below detection limit. Concentrations less than 0.1 weight percent were not considered reliable and labeled BDL.
+            Enumerated_Domain_Value_Definition_Source: Producer defined
+      Attribute:
+        Attribute_Label: XQuad
+        Attribute_Definition: Mole percent QUAD (quadrilateral diopside, hedenbergite, enstatite, ferrosilite pyroxene components) calculated as the sum of XWo + XEn + XFs simplified following Morimoto, N., 1988, Nomenclature of Pyroxenes: Mineralogy and Petrology, v. 39, p. 55–76, https://doi.org/10.1007/BF01226262. This calculation only applies to the mineral phase pyroxene.
+        Attribute_Definition_Source: Producer defined
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0
+            Range_Domain_Maximum: 97
+            Attribute_Units_of_Measure: Mole percent
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: n/a
+            Enumerated_Domain_Value_Definition: Not applicable. This indicates that the element was not monitored during analysis or that the value applies to a different mineral phase.
+            Enumerated_Domain_Value_Definition_Source: Producer defined
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: BDL
+            Enumerated_Domain_Value_Definition: Below detection limit. Concentrations less than 0.1 weight percent were not considered reliable and labeled BDL.
+            Enumerated_Domain_Value_Definition_Source: Producer defined
+  Distribution_Information:
+    Distributor:
+      Contact_Information:
+        Contact_Person_Primary:
+          Contact_Person: Mark E Stelten
+          Contact_Organization: ALASKA REGION: VOLCANO SCIENCE CENTER
+        Contact_Position: Research Geologist
+        Contact_Address:
+          Address_Type: mailing and physical
+          Address: Mail Stop 910, 345 Middlefield Road
+          City: Menlo Park
+          State_or_Province: CA
+          Postal_Code: 94025
+          Country: US
+        Contact_Voice_Telephone: 650-329-5213
+        Contact_Electronic_Mail_Address: mstelten@usgs.gov
+    Distribution_Liability: This dataset has been approved for release and publication by the U.S. Geological Survey (USGS). Although this dataset has been subjected to rigorous review and is substantially complete, the USGS reserves the right to revise the data pursuant to further analysis and review. The U.S. Geological Survey (USGS) provides these data "as is." The USGS makes no guarantee or warranty concerning the accuracy of information contained in the data. The USGS further makes no warranties, either expressed or implied, as to any other matter whatsoever, including, and without limitation, the condition of the product or its fitness for any particular purpose. The burden for determining fitness for use lies entirely with the user. Although these data have been processed successfully on computers at the USGS, no warranty, expressed or implied, is made by the USGS regarding the use of these data on any other system, nor does the fact of distribution constitute or imply any such warranty. In no event shall the USGS nor the U.S. Government have any liability whatsoever for payment of any consequential, incidental, indirect,  special, or tort damages of any kind, including,  but not limited  to, any loss of profits arising  out of use of or reliance  on the geographic  data or arising out of delivery,  installation,  operation, or support by USGS. Any use of trade, product or firm names is for descriptive purposes only and does not imply endorsement by the U.S. Government.  The U.S. Geological Survey strongly recommends that careful attention be paid to the metadata file associated with these data.  Any derivative products utilizing these datasets shall clearly indicate their source. If users modify the data in any way they are obligated to describe the types of modifications they have performed. User specifically agrees not to misrepresent these datasets, nor to imply that changes they made were approved by the U.S. Geological Survey. Acknowledgement of the U.S. Geological Survey would be appreciated in products derived from these data.
+    Standard_Order_Process:
+      Digital_Form:
+        Digital_Transfer_Information:
+          Format_Name: CSV
+          Format_Version_Number: none
+          Format_Information_Content: Metadata contained in ZIP file
+        Digital_Transfer_Option:
+          Online_Option:
+            Computer_Contact_Information:
+              Network_Address:
+                Network_Resource_Name: https://doi.org/10.5066/P9ENRS8U
+      Fees: None
+    Technical_Prerequisites: Any potential user must have an understanding of electron microprobe data and igneous petrology to properly use these data.
+  Metadata_Reference_Information:
+    Metadata_Date: 20220214
+    Metadata_Contact:
+      Contact_Information:
+        Contact_Person_Primary:
+          Contact_Person: Mark E Stelten
+          Contact_Organization: ALASKA REGION: VOLCANO SCIENCE CENTER
+        Contact_Position: Research Geologist
+        Contact_Address:
+          Address_Type: mailing and physical
+          Address: Mail Stop 910, 345 Middlefield Road
+          City: Menlo Park
+          State_or_Province: CA
+          Postal_Code: 94025
+          Country: US
+        Contact_Voice_Telephone: 650-329-5213
+        Contact_Electronic_Mail_Address: mstelten@usgs.gov
+    Metadata_Standard_Name: Content Standard for Digital Geospatial Metadata
+    Metadata_Standard_Version: FGDC-STD-001-1998

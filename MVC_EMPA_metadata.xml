@@ -1,0 +1,860 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Mark E. Stelten</origin>
+        <origin>Drew T. Downs</origin>
+        <pubdate>20220215</pubdate>
+        <title>Electron microprobe data for plagioclase, olivine, pyroxene, and spinel in volcanic rocks from the Matan volcanic center located within the Harrat Rahat volcanic field, Kingdom of Saudi Arabia</title>
+        <geoform>Electron microprobe data provided as .csv files</geoform>
+        <pubinfo>
+          <pubplace>Reston, VA</pubplace>
+          <publish>U.S. Geological Survey</publish>
+        </pubinfo>
+        <onlink>https://doi.org/10.5066/P9ENRS8U</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>Mineral compositions are reported for Quaternary volcanic rocks of the Matan volcanic center, northern Harrat Rahat, Saudi Arabia.  Compositions were measured by wavelength-dispersive methods with the 5-spectrometer JEOL-8900 electron microprobe at the USGS facility in Menlo Park, California; background-corrected X-ray intensities were reduced to oxide weight concentrations with the JEOL proprietary version of the CITZAF reduction schema.  These results are part of a collaborative study by the U.S. Geological Survey and Saudi Geological survey to assess the volcanic and seismic hazards associated with the northern Harrat Rahat volcanic field.</abstract>
+      <purpose>The data were collected to determine composition of mineral phases of Quaternary volcanic rocks of northern Harrat Rahat, Kingdom of Saudi Arabia. These compositions help to understand the origin and compositional evolution of volcanic rocks within northern Harrat Rahat.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>20150107</begdate>
+          <enddate>20191202</enddate>
+        </rngdates>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>39.4641317756</westbc>
+        <eastbc>40.219618406655</eastbc>
+        <northbc>24.574404075165</northbc>
+        <southbc>23.928993458416</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>USGS Thesaurus</themekt>
+        <themekey>Geochemistry</themekey>
+      </theme>
+      <theme>
+        <themekt>USGS Metadata Identifier</themekt>
+        <themekey>USGS:6205684fd34ec05caca378d7</themekey>
+      </theme>
+      <place>
+        <placekt>NGA GEOnet Names Server (GNS)</placekt>
+        <placekey>Al Madinah Al Munawwarah, Kingdom of Saudi Arabia</placekey>
+        <placekey>Harrat Rahat volcanic field</placekey>
+      </place>
+      <temporal>
+        <tempkt>USGS Thesaurus</tempkt>
+        <tempkey>Quaternary</tempkey>
+      </temporal>
+    </keywords>
+    <accconst>none</accconst>
+    <useconst>none</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>Mark E Stelten</cntper>
+          <cntorg>ALASKA REGION: VOLCANO SCIENCE CENTER</cntorg>
+        </cntperp>
+        <cntpos>Research Geologist</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Mail Stop 910, 345 Middlefield Road</address>
+          <city>Menlo Park</city>
+          <state>CA</state>
+          <postal>94025</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>650-329-5213</cntvoice>
+        <cntemail>mstelten@usgs.gov</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <datacred>Funding provided by the Saudi Geological Survey</datacred>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>No formal attribute accuracy tests were conducted</attraccr>
+    </attracc>
+    <logic>Duplication and omission were tested for. No errors were found. All values fall within the expected range and typical run conditions for the instruments used. These were verified by two USGS reviewers.</logic>
+    <complete>Data set is considered complete for the information presented, as described in the abstract. Users are advised to read the rest of the metadata record carefully for additional details.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>No formal positional accuracy tests were conducted</horizpar>
+      </horizpa>
+      <vertacc>
+        <vertaccr>No formal positional accuracy tests were conducted</vertaccr>
+      </vertacc>
+    </posacc>
+    <lineage>
+      <procstep>
+        <procdesc>Thin sections (30 micrometers thick) were prepared commercially and loaded into the 5-spectrometer JEOL-8900 electron-microprobe at the USGS facility in Menlo Park, California. All analyses were made with a 15 kilovolt accelerating voltage and the specific conditions: for plagioclase, 10 nanoamperes Faraday current, 10 micrometer diameter beam; for spinels, 20 nanoamperes Faraday current, focused beam; for pyroxene and olivine, 15 nanoamperes Faraday current, focused beam. Count times were 30 seconds on peak and 10 seconds on + and - backgrounds for all elements except sodium, for which count times were 10 seconds on peak and 5 seconds on backgrounds. Sodium and potassium were measured first to minimize diffusive loss under the beam.  Background-corrected X-ray intensities were converted to concentrations with the JEOL proprietary version of the CITZAF reduction schema referenced to a selection of natural and synthetic mineral standards.  Interference of titanium K-beta on vanadium K-alpha X-rays was corrected by analysis of vanadium-free titanium dioxide to determine the apparent vanadium X-ray count rates proportional to titanium count rates and application of this correction to unknowns.</procdesc>
+        <procdate>20191202</procdate>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <indspref>Location information for these samples can be found in Downs, D.T., 2019, Major- and trace-element chemical analyses of rocks from the northern Harrat Rahat volcanic field and surrounding area, Kingdom of Saudi Arabia: U.S. Geological Survey data release, https://doi.org/10.5066/P91HL91C</indspref>
+  </spdoinfo>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>MVC_EMPAdata</enttypl>
+        <enttypd>MVC_EMPAdata .csv contains mineral compositions for Quaternary volcanic rocks of the Matan volcanic center, northern Harrat Rahat, Saudi Arabia.  Compositions were measured by wavelength-dispersive methods with the 5-spectrometer JEOL-8900 electron microprobe at the USGS facility in Menlo Park, California. These results are part of a collaborative study by the U.S. Geological Survey and Saudi Geological survey to assess the volcanic and seismic hazards associated with the northern Harrat Rahat volcanic field.</enttypd>
+        <enttypds>Mark Stelten</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>Sample Name</attrlabl>
+        <attrdef>Sample collection number as collected in field or provided by collaborator</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <udom>Sample collection number as collected in field or provided by collaborator</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Analysis Name</attrlabl>
+        <attrdef>Unique identifier for electron microprobe analysis</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <udom>Unique identifier for electron microprobe analysis</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Mineral phase</attrlabl>
+        <attrdef>Type of mineral analyzed by electron microprobe</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Plagioclase</edomv>
+            <edomvd>Plagioclase crystal</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Olivine</edomv>
+            <edomvd>Olivine crystal</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Pyroxene</edomv>
+            <edomvd>Pyroxene crystal</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Spinel</edomv>
+            <edomvd>Spinel crystal</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Context</attrlabl>
+        <attrdef>Petrographic context of phase analyzed by electron microprobe.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Groundmass</edomv>
+            <edomvd>Groundmass grains are small crystals (typically less than 250 micrometers in their largest dimension) interpreted to have grown from melt during and following eruption; these may include some microphenocrysts.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Phenocryst</edomv>
+            <edomvd>Phenocrysts are larger crystals (typically &gt;250 micrometers in their largest dimension).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Unit Abbreviation</attrlabl>
+        <attrdef>Unit abbreviation based on the geologic map of Harrat Rahat presented in Downs, D.T., Robinson, J.E., Stelten, M.E., Champion, D.E., Dietterich, H.R., Sisson, T.W., Zahran, H., Hassan, K., and Shawali, J., 2019, Geologic map of the northern Harrat Rahat volcanic field, Kingdom of Saudi Arabia: U.S. Geological Survey Scientific Investigations Map 3428 [also released as Saudi Geological Survey Special Report SGS-SP-2019-2], scales 1:75,000, 1:25,000, 4 sheets, https://doi.org/10.3133/sim3428</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <udom>Unit abbreviation based on the geologic map of Harrat Rahat presented in Downs, D.T., Robinson, J.E., Stelten, M.E., Champion, D.E., Dietterich, H.R., Sisson, T.W., Zahran, H., Hassan, K., and Shawali, J., 2019, Geologic map of the northern Harrat Rahat volcanic field, Kingdom of Saudi Arabia: U.S. Geological Survey Scientific Investigations Map 3428 [also released as Saudi Geological Survey Special Report SGS-SP-2019-2], scales 1:75,000, 1:25,000, 4 sheets, https://doi.org/10.3133/sim3428</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SiO2</attrlabl>
+        <attrdef>Weight percent concentration of silicon measured by electron microprobe reported as silicon oxide</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.1</rdommin>
+            <rdommax>68.7</rdommax>
+            <attrunit>weight percent</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>BDL</edomv>
+            <edomvd>Below detection limit. Concentrations less than 0.1 weight percent were not considered reliable and labeled BDL.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>TiO2</attrlabl>
+        <attrdef>Weight percent concentration of titanium measured by electron microprobe reported as titanium oxide</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.1</rdommin>
+            <rdommax>31.0</rdommax>
+            <attrunit>weight percent</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>n/a</edomv>
+            <edomvd>Not applicable. This indicates that the element was not monitored during analysis or that the value applies to a different mineral phase.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>BDL</edomv>
+            <edomvd>Below detection limit. Concentrations less than 0.1 weight percent were not considered reliable and labeled BDL.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Al2O3</attrlabl>
+        <attrdef>Weight percent concentration of aluminum by electron microprobe reported as aluminum oxide</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.1</rdommin>
+            <rdommax>35.7</rdommax>
+            <attrunit>weight percent</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>n/a</attrlabl>
+        <attrdef>Not applicable. This indicates that the element was not monitored during analysis or that the value applies to a different mineral phase.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>BDL</edomv>
+            <edomvd>Below detection limit. Concentrations less than 0.1 weight percent were not considered reliable and labeled BDL.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>FeO*</attrlabl>
+        <attrdef>Weight percent concentration of iron measured by electron microprobe reported as ferrous iron oxide. The asterisk indicates that in this measurement all the iron is calculated as ferrous iron.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.12</rdommin>
+            <rdommax>63.2</rdommax>
+            <attrunit>weight percent</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>n/a</edomv>
+            <edomvd>Not applicable. This indicates that the element was not monitored during analysis or that the value applies to a different mineral phase.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>BDL</edomv>
+            <edomvd>Below detection limit. Concentrations less than 0.1 weight percent were not considered reliable and labeled BDL.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>FeO</attrlabl>
+        <attrdef>Weight percent concentration of ferrous iron oxide recalculated from total iron measured by electron microprobe (FeO*) to maintain charge balance in spinel series minerals on a three cation - four oxygen basis, or in pyroxenes on a two cation - three oxygen basis.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.3</rdommin>
+            <rdommax>55.2</rdommax>
+            <attrunit>weight percent</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>n/a</edomv>
+            <edomvd>Not applicable. This indicates that the element was not monitored during analysis or that the value applies to a different mineral phase.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>BDL</edomv>
+            <edomvd>Below detection limit. Concentrations less than 0.1 weight percent were not considered reliable and labeled BDL.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Fe2O3</attrlabl>
+        <attrdef>Weight percent concentration of ferric iron oxide recalculated from total iron measured by electron microprobe (FeO*) to maintain charge balance in spinel series minerals on a three cation - four oxygen basis, or in pyroxenes on a two cation - three oxygen basis.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.4</rdommin>
+            <rdommax>65.1</rdommax>
+            <attrunit>weight percent</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>n/a</edomv>
+            <edomvd>Not applicable. This indicates that the element was not monitored during analysis or that the value applies to a different mineral phase.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>BDL</edomv>
+            <edomvd>Below detection limit. Concentrations less than 0.1 weight percent were not considered reliable and labeled BDL.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>CaO</attrlabl>
+        <attrdef>Weight percent concentration of calcium measured by electron microprobe reported as calcium oxide</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.1</rdommin>
+            <rdommax>22.1</rdommax>
+            <attrunit>weight percent</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>n/a</edomv>
+            <edomvd>Not applicable. This indicates that the element was not monitored during analysis or that the value applies to a different mineral phase.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>BDL</edomv>
+            <edomvd>Below detection limit. Concentrations less than 0.1 weight percent were not considered reliable and labeled BDL.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Na2O</attrlabl>
+        <attrdef>Weight percent concentration of sodium measured by electron microprobe reported as sodium oxide</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.4</rdommin>
+            <rdommax>13.8</rdommax>
+            <attrunit>weight percent</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>n/a</edomv>
+            <edomvd>Not applicable. This indicates that the element was not monitored during analysis or that the value applies to a different mineral phase.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>K2O</attrlabl>
+        <attrdef>Weight percent concentration of potassium measured by electron microprobe reported as potassium oxide</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.1</rdommin>
+            <rdommax>10.0</rdommax>
+            <attrunit>weight percent</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>n/a</edomv>
+            <edomvd>Not applicable. This indicates that the element was not monitored during analysis or that the value applies to a different mineral phase.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>MnO</attrlabl>
+        <attrdef>Weight percent concentration of manganese measured by electron microprobe reported as manganese oxide</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.1</rdommin>
+            <rdommax>4.4</rdommax>
+            <attrunit>weight percent</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>n/a</edomv>
+            <edomvd>Not applicable. This indicates that the element was not monitored during analysis or that the value applies to a different mineral phase.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>BDL</edomv>
+            <edomvd>Below detection limit. Concentrations less than 0.1 weight percent were not considered reliable and labeled BDL.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>MgO</attrlabl>
+        <attrdef>Weight percent concentration of magnesium measured by electron microprobe reported as magnesium oxide</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.1</rdommin>
+            <rdommax>47.3</rdommax>
+            <attrunit>weight percent</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>n/a</edomv>
+            <edomvd>Not applicable. This indicates that the element was not monitored during analysis or that the value applies to a different mineral phase.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>BDL</edomv>
+            <edomvd>Below detection limit. Concentrations less than 0.1 weight percent were not considered reliable and labeled BDL.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>NiO</attrlabl>
+        <attrdef>Weight percent concentration of nickel measured by electron microprobe reported as nickel oxide</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.1</rdommin>
+            <rdommax>0.4</rdommax>
+            <attrunit>weight percent</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>n/a</edomv>
+            <edomvd>Not applicable. This indicates that the element was not monitored during analysis or that the value applies to a different mineral phase.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>BDL</edomv>
+            <edomvd>Below detection limit. Concentrations less than 0.1 weight percent were not considered reliable and labeled BDL.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Cr2O3</attrlabl>
+        <attrdef>Weight percent concentration of chromium measured by electron microprobe reported as chromium oxide</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.1</rdommin>
+            <rdommax>24.9</rdommax>
+            <attrunit>weight percent</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>n/a</edomv>
+            <edomvd>Not applicable. This indicates that the element was not monitored during analysis or that the value applies to a different mineral phase.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>BDL</edomv>
+            <edomvd>Below detection limit. Concentrations less than 0.1 weight percent were not considered reliable and labeled BDL.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>V2O3</attrlabl>
+        <attrdef>Weight percent concentration of vanadium measured by electron microprobe reported as vanadium oxide</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.1</rdommin>
+            <rdommax>1.2</rdommax>
+            <attrunit>weight percent</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>n/a</edomv>
+            <edomvd>Not applicable. This indicates that the element was not monitored during analysis or that the value applies to a different mineral phase.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>BDL</edomv>
+            <edomvd>Below detection limit. Concentrations less than 0.1 weight percent were not considered reliable and labeled BDL.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Total</attrlabl>
+        <attrdef>Sum of oxide weight concentrations</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>94.1</rdommin>
+            <rdommax>103.4</rdommax>
+            <attrunit>weight percent</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>XAb</attrlabl>
+        <attrdef>Mole percent albite calculated as [XAb = 100 * Na/(Na + K + Ca)], where Na, K, and Ca are the mole fraction of sodium, potassium, and calcium, respectively. This calculation only applies to the mineral phase plagioclase.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>22</rdommin>
+            <rdommax>86</rdommax>
+            <attrunit>Mole percent</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>n/a</edomv>
+            <edomvd>Not applicable. This indicates that the element was not monitored during analysis or that the value applies to a different mineral phase.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>XAn</attrlabl>
+        <attrdef>Mole percent anorthite calculated as [XAn = 100 * Ca/(Na + K + Ca)], where Na, K, and Ca are the mole fraction of sodium, potassium, and calcium, respectively. This calculation only applies to the mineral phase plagioclase.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>77</rdommax>
+            <attrunit>Mole percent</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>n/a</edomv>
+            <edomvd>Not applicable. This indicates that the element was not monitored during analysis or that the value applies to a different mineral phase.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>XOr</attrlabl>
+        <attrdef>Mole percent orthoclase calculated as [XOr = 100 * K/(Na + K + Ca)], where Na, K, and Ca are the mole fraction of sodium, potassium, and calcium, respectively. This calculation only applies to the mineral phase plagioclase.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.3</rdommin>
+            <rdommax>58</rdommax>
+            <attrunit>Mole percent</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>n/a</edomv>
+            <edomvd>Not applicable. This indicates that the element was not monitored during analysis or that the value applies to a different mineral phase.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>XFa</attrlabl>
+        <attrdef>Mole percent fayalite calculated as [XFa = 100 * Fe^2+/(Fe^2+ + Mg + Mn)], where Fe^2+, Mg, and Mn are the mole fraction of ferrous iron, magnesium, and manganese, respectively. This calculation only applies to the mineral phase olivine.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>12</rdommin>
+            <rdommax>90</rdommax>
+            <attrunit>Mole percent</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>n/a</edomv>
+            <edomvd>Not applicable. This indicates that the element was not monitored during analysis or that the value applies to a different mineral phase.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>XFo</attrlabl>
+        <attrdef>Mole percent forsterite calculated as [XFo = 100 * Mg/(Fe^2+ + Mg + Mn)], where Fe^2+, Mg, and Mn are the mole fraction of ferrous iron, magnesium, and manganese, respectively. This calculation only applies to the mineral phase olivine.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>6</rdommin>
+            <rdommax>88</rdommax>
+            <attrunit>Mole percent</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>n/a</edomv>
+            <edomvd>Not applicable. This indicates that the element was not monitored during analysis or that the value applies to a different mineral phase.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>XTp</attrlabl>
+        <attrdef>Mole percent tephrolite calculated as [XTa = 100 * Mn/(Fe^2+ + Mg + Mn)], where Fe^2+, Mg, and Mn are the mole fraction of ferrous iron, magnesium, and manganese, respectively. This calculation only applies to the mineral phase olivine.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.1</rdommin>
+            <rdommax>6.3</rdommax>
+            <attrunit>Mole percent</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>n/a</edomv>
+            <edomvd>Not applicable. This indicates that the element was not monitored during analysis or that the value applies to a different mineral phase.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>XWo</attrlabl>
+        <attrdef>Mole percent wollastonite calculated as [XWo = 100 * Ca/(Fe^2+ + Mg + Ca + Mn + 2 * Na)], where Fe^2+, Mg, Ca, Mn, and Na are the mole fraction of ferrous iron, magnesium, calcium, manganese, and sodium respectively,  simplified following Morimoto, N., 1988, Nomenclature of Pyroxenes: Mineralogy and Petrology, v. 39, p. 55–76, https://doi.org/10.1007/BF01226262. This calculation only applies to the mineral phase pyroxene.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>4</rdommin>
+            <rdommax>49</rdommax>
+            <attrunit>Mole percent</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>n/a</edomv>
+            <edomvd>Not applicable. This indicates that the element was not monitored during analysis or that the value applies to a different mineral phase.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>XEn</attrlabl>
+        <attrdef>Mole percent enstatite calculated as [XEn = 100 * Mg/(Fe^2+ + Mg + Ca + Mn + 2 * Na)], where Fe^2+, Mg, Ca, Mn, and Na are the mole fraction of ferrous iron, magnesium, calcium, manganese, and sodium respectively,  simplified following Morimoto, N., 1988, Nomenclature of Pyroxenes: Mineralogy and Petrology, v. 39, p. 55–76, https://doi.org/10.1007/BF01226262. This calculation only applies to the mineral phase pyroxene.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>40</rdommax>
+            <attrunit>Mole percent</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>n/a</edomv>
+            <edomvd>Not applicable. This indicates that the element was not monitored during analysis or that the value applies to a different mineral phase.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>XFs</attrlabl>
+        <attrdef>Mole percent ferrosilite calculated as [XFs = 100 * Fe^2+/(Fe^2+ + Mg + Ca + Mn + 2 * Na)], where Fe^2+, Mg, Ca, Mn, and Na are the mole fraction of ferrous iron, magnesium, calcium, manganese, and sodium respectively,  simplified following Morimoto, N., 1988, Nomenclature of Pyroxenes: Mineralogy and Petrology, v. 39, p. 55–76, https://doi.org/10.1007/BF01226262. This calculation only applies to the mineral phase pyroxene.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>12</rdommin>
+            <rdommax>96</rdommax>
+            <attrunit>Mole percent</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>n/a</edomv>
+            <edomvd>Not applicable. This indicates that the element was not monitored during analysis or that the value applies to a different mineral phase.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>XJd</attrlabl>
+        <attrdef>Mole percent jadeite calculated following Morimoto, N., 1988, Nomenclature of Pyroxenes: Mineralogy and Petrology, v. 39, p. 55–76, https://doi.org/10.1007/BF01226262. This calculation only applies to the mineral phase pyroxene.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>1</rdommin>
+            <rdommax>20</rdommax>
+            <attrunit>Mole percent</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>n/a</edomv>
+            <edomvd>Not applicable. This indicates that the element was not monitored during analysis or that the value applies to a different mineral phase.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>BDL</edomv>
+            <edomvd>Below detection limit. Concentrations less than 0.1 weight percent were not considered reliable and labeled BDL.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>XAe</attrlabl>
+        <attrdef>Mole percent aegirine calculated following Morimoto, N., 1988, Nomenclature of Pyroxenes: Mineralogy and Petrology, v. 39, p. 55–76, https://doi.org/10.1007/BF01226262. This calculation only applies to the mineral phase pyroxene.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>98</rdommax>
+            <attrunit>Mole percent</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>n/a</edomv>
+            <edomvd>Not applicable. This indicates that the element was not monitored during analysis or that the value applies to a different mineral phase.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>BDL</edomv>
+            <edomvd>Below detection limit. Concentrations less than 0.1 weight percent were not considered reliable and labeled BDL.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>XQuad</attrlabl>
+        <attrdef>Mole percent QUAD (quadrilateral diopside, hedenbergite, enstatite, ferrosilite pyroxene components) calculated as the sum of XWo + XEn + XFs simplified following Morimoto, N., 1988, Nomenclature of Pyroxenes: Mineralogy and Petrology, v. 39, p. 55–76, https://doi.org/10.1007/BF01226262. This calculation only applies to the mineral phase pyroxene.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>97</rdommax>
+            <attrunit>Mole percent</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>n/a</edomv>
+            <edomvd>Not applicable. This indicates that the element was not monitored during analysis or that the value applies to a different mineral phase.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>BDL</edomv>
+            <edomvd>Below detection limit. Concentrations less than 0.1 weight percent were not considered reliable and labeled BDL.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>U.S. Geological Survey - ScienceBase</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Denver Federal Center, Building 810, Mail Stop 302</address>
+          <city>Denver</city>
+          <state>CO</state>
+          <postal>80225</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>1-888-275-8747</cntvoice>
+        <cntemail>sciencebase@usgs.gov</cntemail>
+      </cntinfo>
+    </distrib>
+    <distliab>This dataset has been approved for release and publication by the U.S. Geological Survey (USGS). Although this dataset has been subjected to rigorous review and is substantially complete, the USGS reserves the right to revise the data pursuant to further analysis and review. The U.S. Geological Survey (USGS) provides these data "as is." The USGS makes no guarantee or warranty concerning the accuracy of information contained in the data. The USGS further makes no warranties, either expressed or implied, as to any other matter whatsoever, including, and without limitation, the condition of the product or its fitness for any particular purpose. The burden for determining fitness for use lies entirely with the user. Although these data have been processed successfully on computers at the USGS, no warranty, expressed or implied, is made by the USGS regarding the use of these data on any other system, nor does the fact of distribution constitute or imply any such warranty. In no event shall the USGS nor the U.S. Government have any liability whatsoever for payment of any consequential, incidental, indirect,  special, or tort damages of any kind, including,  but not limited  to, any loss of profits arising  out of use of or reliance  on the geographic  data or arising out of delivery,  installation,  operation, or support by USGS. Any use of trade, product or firm names is for descriptive purposes only and does not imply endorsement by the U.S. Government.  The U.S. Geological Survey strongly recommends that careful attention be paid to the metadata file associated with these data.  Any derivative products utilizing these datasets shall clearly indicate their source. If users modify the data in any way they are obligated to describe the types of modifications they have performed. User specifically agrees not to misrepresent these datasets, nor to imply that changes they made were approved by the U.S. Geological Survey. Acknowledgement of the U.S. Geological Survey would be appreciated in products derived from these data.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>CSV</formname>
+          <formvern>none</formvern>
+          <formcont>Metadata contained in ZIP file</formcont>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>https://doi.org/10.5066/P9ENRS8U</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+    </stdorder>
+    <techpreq>Any potential user must have an understanding of electron microprobe data and igneous petrology to properly use these data.</techpreq>
+  </distinfo>
+  <metainfo>
+    <metd>20220215</metd>
+    <metc>
+      <cntinfo>
+        <cntperp>
+          <cntper>Mark E Stelten</cntper>
+          <cntorg>ALASKA REGION: VOLCANO SCIENCE CENTER</cntorg>
+        </cntperp>
+        <cntpos>Research Geologist</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Mail Stop 910, 345 Middlefield Road</address>
+          <city>Menlo Park</city>
+          <state>CA</state>
+          <postal>94025</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>650-329-5213</cntvoice>
+        <cntemail>mstelten@usgs.gov</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+  </metainfo>
+</metadata>
